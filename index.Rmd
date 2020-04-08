@@ -19,8 +19,8 @@ $("#pageContent").removeClass("standardPadding");
   <div class="band full gray1 first rightText">
     <div class="bandContent vCenter">
       <div class="blurb">
-        <div class="tagline">PLAN DE MANTENIMIENTO SENA REGIONAL NORTE DE SANTANDER. (<a href="index.html">MTOSENARNS</a>).</div>
-        <div> Este sitio está construido con el objetivo brindar una herramienta para Planear, Programar y Controlar el Plan de Mantenimiento de la Maquinaria, Equipos y Herramientas del SENA Regional Norte de Santander. </div>
+        <div class="tagline">PLAN DE MANTENIMIENTO SENA REGIONAL NORTE DE SANTANDER (<a href="index.html">MTOSENARNS</a>).</div>
+        <div> Este sitio está construido con el objetivo brindar una herramienta para planear, programar y controlar el plan de mantenimiento de la maquinaria, equipos y herramientas del SENA regional Norte de Santander. </div>
       </div>
     </div>
     <img class="imageOne" src="images/bandOne.png"/>
@@ -29,7 +29,7 @@ $("#pageContent").removeClass("standardPadding");
   <div class="band full third second leftText">
     <div class="bandContent vCenter">
       <div class="blurb">
-        <div>En este sitio podrás encontrar el Inventario de Maquinaria, Equipos y Herramientas Mantenibles de la Regional SENA Norte de Santander, su Clasificación de acuerdo con Centros o ambientes de trabajo, sus Fichas técnicas, sus Protocolos y Cronogramas de Mantenimiento, además de formularios para la Gestión Documental.</div>
+        <div>En este sitio podrás encontrar el inventario de maquinaria, equipos y herramientas mantenibles de la regional, su clasificación de acuerdo con centros de formación o ambientes de trabajo, sus fichas técnicas, sus protocolos y cronogramas de mantenimiento, además de formularios para la gestión documental.</div>
       </div>
     </div>
     <img class="imageTwo" src="images/bandTwo2.png"/>
