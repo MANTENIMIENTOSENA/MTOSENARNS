@@ -35,7 +35,7 @@ p {
 }
 
 .band.full.fourth {
-  height: 520px;
+  height: 220px;
   overflow: hidden;
 }
 
@@ -70,8 +70,8 @@ p {
 
 .band .imagecies {
   position: absolute;
-  left: 225px;
-  bottom: 220px;
+  left: 0px;
+  bottom: 50px;
   width: 400px;
   height: auto;
 
@@ -79,8 +79,8 @@ p {
 }
 .band .imagecedrum {
   position: absolute;
-  left: 50px;
-  bottom: 80px;
+  left: 420px;
+  bottom: 50px;
   width: 400px;
   height: auto;
 
@@ -88,8 +88,8 @@ p {
 }
 .band .imagett {
   position: absolute;
-  left: 450px;
-  bottom: 80px;
+  left: 840px;
+  bottom: 50px;
   width: 400px;
   height: auto;
 
