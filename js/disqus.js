@@ -1,5 +1,5 @@
 var disqus_config = function () {
-  this.page.url = 'https://mtosenarns.com/' + location.pathname;
+  this.page.url = 'https://mtosenarns.com' + location.pathname;
 };
 $(document).ready(function() {
   var inIFrame = function() {
@@ -11,7 +11,7 @@ $(document).ready(function() {
 
   // create disqus script tag
   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-  dsq.src = '//mtosenarns-com.disqus.com/count.js';
+  dsq.src = '//mtosenarns-com.disqus.com/embed.js';
 
   // determine container
   var container = document.getElementsByTagName('body')[0] || document.getElementsByTagName('head')[0];
