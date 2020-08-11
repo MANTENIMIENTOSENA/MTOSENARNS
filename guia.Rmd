@@ -1,0 +1,11 @@
+---
+title: "guia"
+output:
+  html_document:
+    toc_float: false
+    includes:
+      before_body: [include_header.html]
+---
+
+### pagina en construccion 
+<img class="imageFour" src="images/band4.png"/>
